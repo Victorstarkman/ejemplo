@@ -17,7 +17,7 @@
 <script src='https://cdnjs.cloudflare.com/ajax/libs/select2/4.0.3/js/select2.min.js'></script>
     
 
-    <title>Document</title>
+    <title>ejemplo select2</title>
 </head>
 <body>
 <select id='selUser' style='width: 200px;'>
